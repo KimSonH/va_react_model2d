@@ -1,0 +1,21 @@
+{
+  "extends": "@tsconfig/vite-react/tsconfig.json",
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "baseUrl": "./",
+    "paths": {
+      "@admin/*": ["./src/admin/*"],
+      "@client/*": ["./src/client/*"],
+      "@/*": ["./src/*"],
+      "@framework/*": ["./Framework/src/*"]
+    },
+    "types": ["vitest/globals"],
+    "skipLibCheck": true,
+    "noImplicitAny": false,
+    "strictNullChecks": false,
+    "strictFunctionTypes": false,
+    "strictPropertyInitialization": false
+  },
+  "include": ["src", "vitest.setup.ts", "Core"],
+  "exclude": ["node_modules"]
+}

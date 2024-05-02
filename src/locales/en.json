@@ -1,0 +1,155 @@
+{
+  "user": {
+    "users": "Users",
+    "mail": "Email address",
+    "password": "Password",
+    "User delete success": "User delete success",
+    "User delete failed": "User delete failed",
+    "model": {
+      "User Model": "User Model",
+      "user": "User",
+      "Please enter the user's portrait": "*Please enter the user's portrait",
+      "First Name": "First name",
+      "Last Name": "Last name",
+      "Email": "Email",
+      "Add user": "Add user",
+      "Users created": "Users are created, user's Avatar is processed and automatically updated later. If the user still does not have an Avatar, please send the user's Avatar in the correct format.",
+      "Users create failed": "Users create failed",
+      "Users updated": "Users updated. If you update a user's Avatar, the user's Avatar will be processed and automatically updated later. If the user still does not have an Avatar, please send the user's Avatar in the correct format",
+      "Users update failed": "Users update failed"
+    }
+  },
+  "login": {
+    "login": "Login",
+    "signin": "Sign in"
+  },
+  "aside": {
+    "dashboard": "Dashboard",
+    "user": "User Management",
+    "attendance": {
+      "chart": "Attendance Checking",
+      "list": "Attendance List",
+      "video": "Real-time Stream"
+    },
+    "settings": "Settings"
+  },
+  "error": {
+    "Unexpected error occurred": "Unexpected error occurred",
+    "Email is required": "Email is required",
+    "Invalid email": "Invalid email",
+    "Password is required": "Password is required",
+    "Password must be at least 6 characters": "Password must be at least 6 characters",
+    "Password must be no more than 32 characters": "Password must be no more than 32 characters",
+    "Username or password does not exist": "Username or password does not exist",
+    "First name is required": "First name is required",
+    "First name not empty": "First name not empty",
+    "First name must be at most 10 characters": "First name must be at most 10 characters",
+    "Last name is required": "Last name is required",
+    "Last name not empty": "Last name not empty",
+    "Last name must be at most 10 characters": "Last name must be at most 10 characters",
+    "Image required.": "Image required.",
+    "Max image size is 5MB.": "Max image size is 5MB.",
+    "Only .jpg, .jpeg, .png and .webp formats are supported.": "Only .jpg, .jpeg, .png and .webp formats are supported.",
+    "Something wrong": "Something wrong",
+    "Value ranges from 0 to 24": "Value ranges from 0 to 24"
+  },
+  "common": {
+    "error": "Error",
+    "try again": "Try again",
+    "Signout": "Sign out",
+    "Close modal": "Close modal",
+    "Are you sure you want to delete this item?": "Are you sure you want to delete this item?",
+    "No, cancel": "No, cancel",
+    "Yes, I'm sure": "Yes, I'm sure",
+    "Search": "Search",
+    "Language": "Language",
+    "EN": "English",
+    "JA": "日本語",
+    "cancel": "Cancel",
+    "create": "Create",
+    "update": "Update",
+    "delete": "Delete",
+    "upload": "Upload File",
+    "Selected": "Selected",
+    "Active": "Active",
+    "Inactive": "Inactive",
+    "Inactive all": "Inactive all",
+    "Active all": "Active all",
+    "success": "Success",
+    "Page": "Page",
+    "edit": "Edit",
+    "Total": "Total",
+    "Late": "Late",
+    "Present": "Present",
+    "Time": "Time",
+    "Deleted": "Deleted",
+    "Date": "Date",
+    "Month": "Month",
+    "Year": "Year"
+  },
+  "column": {
+    "Avatar": "Avatar",
+    "ID": "ID",
+    "User name": "Name",
+    "Email": "Email",
+    "Action": "Action",
+    "Status": "Status"
+  },
+  "profile": {
+    "profile": "Profile"
+  },
+  "Attendance": {
+    "Attendance List": "Attendance List",
+    "No data": "No attendance records found for the selected date."
+  },
+  "settings": {
+    "settings": "Settings",
+    "Attendance Time": "Attendance Time",
+    "Time": "Time"
+  },
+  "front": {
+    "404": {
+      "Page not found": "Page not found",
+      "Sorry, we couldn’t find the page you’re looking for.": "Sorry, we couldn’t find the page you’re looking for.",
+      "Go back home": "Go back home"
+    },
+    "home": {
+      "2D Model": "2D Model",
+      "Conversation": {
+        "Conversation": "Conversation",
+        "Please ask me anything": "Please ask me anything"
+      },
+      "Attendance List": "Attendance List",
+      "Face Recognition": "Face Recognition",
+      "Profile": {
+        "user": "User",
+        "Change Information": "Change Information",
+        "Profile": "Profile",
+        "Change Password": "Change Password",
+        "Attendance History": "Attendance History",
+        "Settings": "Settings",
+        "Language": "Language",
+        "Change Language": "Change Language"
+      },
+      "form": {
+        "mail": "Email",
+        "first_name": "First name",
+        "last_name": "Last name",
+        "currentPassword": "Current Password",
+        "newPassword": "New Password",
+        "confirmPassword": "Confirm Password"
+      },
+      "User Information": "User Information",
+      "Face Recognition Video": {
+        "wait_server": "Waiting for video server...",
+        "request_slot": "Requesting a slot...",
+        "request_video": "Slot available. Requesting video...",
+        "wait_slot": "Video server is busy. Waiting for a slot...",
+        "server_disconnected": "Video server disconnected"
+      }
+    }
+  },
+  "chart": {
+    "attendances": "Attendance Checking"
+  }
+}

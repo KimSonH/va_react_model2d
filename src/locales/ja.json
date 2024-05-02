@@ -1,0 +1,155 @@
+{
+  "user": {
+    "users": "ユーザー",
+    "mail": "メールアドレス",
+    "password": "パスワード",
+    "User delete success": "ユーザー削除成功",
+    "User delete failed": "ユーザーの削除に失敗しました",
+    "model": {
+      "User Model": "ユーザーモデル",
+      "user": "ユーザー",
+      "Please enter the user's portrait": "※ユーザーの顔写真をご入力ください",
+      "First Name": "ファーストネーム",
+      "Last Name": "苗字",
+      "Email": "Eメール",
+      "Add user": "ユーザーを追加する",
+      "Users created": "ユーザーが作成され、ユーザーのアバターが処理され、後で自動的に更新されます。 ユーザーがまだアバターを持っていない場合は、ユーザーのアバターを正しい形式で送信してください。",
+      "Users create failed": "ユーザーの作成に失敗しました",
+      "Users updated": "ユーザーが更新されました。 ユーザーのアバターを更新すると、ユーザーのアバターは処理され、後で自動的に更新されます。 ユーザーがまだアバターを持っていない場合は、ユーザーのアバターを正しい形式で送信してください",
+      "Users update failed": "ユーザーのアップデートに失敗しました"
+    }
+  },
+  "login": {
+    "login": "ログイン",
+    "signin": "サインイン"
+  },
+  "aside": {
+    "dashboard": "ダッシュボード",
+    "user": "ユーザー管理",
+    "attendance": {
+      "chart": "出席確認",
+      "list": "Attendance List",
+      "video": "Real-time Stream"
+    },
+    "settings": "設定"
+  },
+  "error": {
+    "Unexpected error occurred": "予期せぬエラーが発生しました",
+    "Email is required": "メールアドレスを入力してください",
+    "Invalid email": "メールアドレスが正しくありません",
+    "Password is required": "パスワードを入力してください",
+    "Password must be at least 6 characters": "パスワードは6文字以上で入力してください",
+    "Password must be no more than 32 characters": "パスワードは32文字以下で入力してください",
+    "Username or password does not exist": "ユーザー名またはパスワードが存在しません",
+    "First name is required": "名は必須です",
+    "First name not empty": "名が空ではありません",
+    "First name must be at most 10 characters": "名は最大 10 文字にする必要があります",
+    "Last name is required": "姓は必須です",
+    "Last name not empty": "姓が空ではありません",
+    "Last name must be at most 10 characters": "姓は最大 10 文字である必要があります",
+    "Image required.": "画像が必要です。",
+    "Max image size is 5MB.": "最大画像サイズは5MBです。",
+    "Only .jpg, .jpeg, .png and .webp formats are supported.": ".jpg、.jpeg、.png、および .webp 形式のみがサポートされます。",
+    "Something wrong": "何か問題でも",
+    "Value ranges from 0 to 24": "値の範囲は 0 ～ 24"
+  },
+  "common": {
+    "error": "エラー",
+    "try again": "もう一度やり直してください",
+    "Signout": "サインアウト",
+    "Close modal": "モーダルを閉じる",
+    "Are you sure you want to delete this item?": "この項目を削除してもよろしいですか?",
+    "No, cancel": "いいえ、キャンセルします",
+    "Yes, I'm sure": "はい、確かです",
+    "Search": "検索",
+    "Language": "言語",
+    "EN": "English",
+    "JA": "日本語",
+    "cancel": "キャンセル",
+    "create": "作成する",
+    "update": "アップデート",
+    "delete": "消去",
+    "upload": "ファイルをアップロードする",
+    "Selected": "選択済み",
+    "Active": "アクティブ",
+    "Inactive": "非活性",
+    "Inactive all": "すべて非アクティブ",
+    "Active all": "すべてアクティブ",
+    "success": "成功",
+    "Page": "ページ",
+    "edit": "編集",
+    "Total": "合計",
+    "Late": "遅い",
+    "Present": "現在",
+    "Time": "時間",
+    "Deleted": "削除",
+    "Date": "日",
+    "Month": "月",
+    "Year": "年"
+  },
+  "column": {
+    "Avatar": "アバター",
+    "ID": "ID",
+    "User name": "名前",
+    "Email": "Eメール",
+    "Action": "アクション",
+    "Status": "状態"
+  },
+  "profile": {
+    "profile": "プロフィール"
+  },
+  "Attendance": {
+    "Attendance List": "参加者一覧",
+    "No data": "選択した日付の出席記録が見つかりませんでした。"
+  },
+  "settings": {
+    "settings": "設定",
+    "Attendance Time": "出席時間",
+    "Time": "時間"
+  },
+  "front": {
+    "404": {
+      "Page not found": "ページが見つかりません",
+      "Sorry, we couldn’t find the page you’re looking for.": "申し訳ありませんが、お探しのページは見つかりませんでした。",
+      "Go back home": "家に帰ります"
+    },
+    "home": {
+      "2D Model": "2Dモデル",
+      "Conversation": {
+        "Conversation": "会話",
+        "Please ask me anything": "何でも聞いてください"
+      },
+      "Attendance List": "参加者一覧",
+      "Face Recognition": "顔認識",
+      "Profile": {
+        "user": "ユーザー",
+        "Change Information": "変更情報",
+        "Profile": "プロフィール",
+        "Change Password": "パスワードを変更する",
+        "Attendance History": "出席履歴",
+        "Settings": "設定",
+        "Language": "言語",
+        "Change Language": "言語を変える"
+      },
+      "form": {
+        "mail": "Eメール",
+        "first_name": "ファーストネーム",
+        "last_name": "苗字",
+        "currentPassword": "現在のパスワード",
+        "newPassword": "新しいパスワード",
+        "confirmPassword": "パスワードを認証する"
+      },
+      "User Information": "ユーザー情報",
+      "Face Recognition Video": {
+        "wait_server": "ビデオサーバーを待っています...",
+        "request_slot": "スロットをリクエストしています...",
+        "request_video": "スロットが利用可能です。 動画をリクエストしています...",
+        "wait_slot": "ビデオサーバーがビジー状態です。 スロットを待っています...",
+        "server_disconnected": "ビデオサーバーが切断されました"
+      }
+    }
+  },
+  "chart": {
+    "attendances": "出席確認"
+  }
+}

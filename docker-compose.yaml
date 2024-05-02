@@ -1,0 +1,15 @@
+services:
+  va-frontend:
+    build:
+      context: .
+      target: development
+      dockerfile: build/Dockerfile
+    env_file:
+      - ./.env
+    ports:
+      - 3306:3306
+    volumes:
+      - ./:/app
+    command: npm run dev -- --host
+    # extra_hosts:
+    #   - host.docker.internal:host-gateway

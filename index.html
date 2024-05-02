@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full scrollbar">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/src/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Canvas' Virtual Assistant</title>
+  </head>
+  <!-- Pollyfill script -->
+  <script src="https://unpkg.com/core-js-bundle@3.6.1/minified.js"></script>
+  <!-- Live2DCubismCore script -->
+  <!-- <script src="./Core/live2dcubismcore.js"></script> -->
+  <script src="https://cubism.live2d.com/sdk-web/cubismcore/live2dcubismcore.min.js"></script>
+
+  <body class="h-full">
+    <div id="root" class="h-full"></div>
+    <div id="portal-root"></div>
+    <div id="preview-portal-root" class="w-full fixed bottom-0 left-0 pointer-events-none z-40"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
